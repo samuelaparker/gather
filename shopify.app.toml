@@ -2,7 +2,7 @@
 
 name = "gather"
 client_id = "d95ed81401b7bf049f5a1a83a11cc4d0"
-application_url = "https://extract-grenada-finger-highly.trycloudflare.com"
+application_url = "https://what-assign-necklace-tunisia.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,9 +11,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://extract-grenada-finger-highly.trycloudflare.com/auth/callback",
-  "https://extract-grenada-finger-highly.trycloudflare.com/auth/shopify/callback",
-  "https://extract-grenada-finger-highly.trycloudflare.com/api/auth/callback"
+  "https://what-assign-necklace-tunisia.trycloudflare.com/auth/callback",
+  "https://what-assign-necklace-tunisia.trycloudflare.com/auth/shopify/callback",
+  "https://what-assign-necklace-tunisia.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
